@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+metar_parsed.csv
+errors.txt
